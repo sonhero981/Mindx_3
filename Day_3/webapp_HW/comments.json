@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1648021063829,
+    "content": "Comment 1",
+    "createBy": "Hung son",
+    "postId": 1648007171637
+  },
+  {
+    "id": 1648021063827,
+    "content": "Comment 2",
+    "createBy": "Hung son",
+    "postId": 1648021063829
+  },
+  {
+    "id": 1648021063821,
+    "content": "Comment 3",
+    "createBy": "Hung son",
+    "postId": 1648021063829
+  }
+]
