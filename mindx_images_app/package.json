@@ -1,0 +1,23 @@
+{
+    "name": "mindx_images_app",
+    "version": "1.0.0",
+    "description": "Demo Web bằng NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index",
+        "start": "node index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "mongodb": "^4.4.1",
+        "mongoose": "^6.2.8",
+        "npm": "^8.5.5"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
